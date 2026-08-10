@@ -1,0 +1,16 @@
+Customer_ID,Name,Age,City,Gender,Category,Product,Quantity,Price,Payment_Method
+C101,Aarav,22,Hyderabad,M,Electronics,Headphones,1,2500,UPI
+C102,Diya,25,Bangalore,F,Clothing,Hoodie,2,1800,Card
+C103,Rohan,29,Chennai,M,Electronics,Keyboard,1,2200,UPI
+C104,Ananya,21,Hyderabad,F,Beauty,Skincare_Set,3,1200,UPI
+C105,Vikram,34,Mumbai,M,Home,Table_Lamp,2,900,Cash
+C106,Isha,27,Delhi,F,Electronics,Smartwatch,1,4500,Card
+C107,Arjun,31,Hyderabad,M,Clothing,Sneakers,1,3200,UPI
+C108,Meera,24,Bangalore,F,Beauty,Perfume,2,2100,Card
+C109,Karan,28,Chennai,M,Home,Bedsheet,3,800,Cash
+C110,Sneha,23,Delhi,F,Electronics,Mouse,2,700,UPI
+C111,Rahul,36,Mumbai,M,Clothing,Jeans,2,1600,Card
+C112,Priya,26,Hyderabad,F,Beauty,Face_Wash,4,500,UPI
+C113,Aditya,30,Bangalore,M,Electronics,Speaker,1,3500,Card
+C114,Kavya,22,Delhi,F,Home,Cushion_Set,3,600,Cash
+C115,Manish,33,Chennai,M,Clothing,T_Shirt,4,900,UPI
